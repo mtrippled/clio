@@ -1,5 +1,7 @@
 #include <rpc/Counters.h>
 
+#include <mutex>
+
 namespace RPC
 {
 
